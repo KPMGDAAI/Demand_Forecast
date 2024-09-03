@@ -28,7 +28,6 @@ Accurate forecasting of oil demand is crucial for optimizing production and ensu
 ### Step 1: Loading and Analyzing Historical Data
 ![enter image description here](https://i.pinimg.com/736x/f3/76/12/f37612d847e91be1a164ef14ad521566.jpg)
 
-
 The first step involves loading historical oil demand data into a pandas DataFrame. This data forms the foundation for trend analysis and forecasting. The notebook includes instructions on how to load and clean the data.
 
 ### Step 2: Understanding Historical Trends
@@ -50,7 +49,5 @@ After generating forecasts, the notebook helps you create visualizations to comp
 ![enter image description here](https://i.pinimg.com/736x/67/23/f2/6723f22b4de53da8dfc4344cecd8a9cb.jpg)
 
 ## Conclusion
-
-![enter image description here](https://i.pinimg.com/736x/76/3d/aa/763daa120d6d30de732b2d4b6cf4e15a.jpg)
 
 This project demonstrates how the ARIMA model, combined with a thorough understanding of external factors, can provide accurate and actionable forecasts for oil demand. By integrating data analysis, predictive modeling, and interactive visualizations, this approach enables businesses to make informed decisions that enhance operational efficiency and strategic planning.
