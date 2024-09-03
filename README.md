@@ -22,11 +22,11 @@ Accurate forecasting of oil demand is crucial for optimizing production and ensu
 -   Support decision-making processes by providing visualizations and interactive dashboards that highlight key insights.
 
 ## Project Structure
-![enter image description here](https://i.pinimg.com/736x/f3/76/12/f37612d847e91be1a164ef14ad521566.jpg)
+![enter image description here](https://i.pinimg.com/736x/23/ac/5e/23ac5e0e3285e778dac24ef5581484e6.jpg)
+
 
 ### Step 1: Loading and Analyzing Historical Data
-![enter image description here](https://i.pinimg.com/736x/3f/4b/b1/3f4bb171785c08edd489f83f61073d8b.jpg)
-
+![enter image description here](https://i.pinimg.com/736x/f3/76/12/f37612d847e91be1a164ef14ad521566.jpg)
 The first step involves loading historical oil demand data into a pandas DataFrame. This data forms the foundation for trend analysis and forecasting. The notebook includes instructions on how to load and clean the data.
 
 ### Step 2: Understanding Historical Trends
