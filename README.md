@@ -1,7 +1,7 @@
 # Oil Demand Forecasting with ARIMA
 
 ## How to Use This Repository
-![enter image description here](https://i.pinimg.com/736x/e1/af/d5/e1afd56e5d21ea1a4567558bd0fe6262.jpg)
+![enter image description here](https://i.pinimg.com/736x/60/60/f2/6060f272a12cc311bc7dfe6d13a19caa.jpg)
 
 This repository contains all the necessary components to forecast oil demand using the ARIMA model, considering various external factors like seasonality and economic shocks. The structure of the repository is as follows:
 
@@ -13,8 +13,7 @@ This repository contains all the necessary components to forecast oil demand usi
     
 
 ## Business Use Case
-![enter image description here](https://i.pinimg.com/736x/a3/03/42/a30342239cac1292c85b4bcf1e188f17.jpg)
-
+![enter image description here](https://i.pinimg.com/736x/cd/5a/89/cd5a89e8864c616b6312a60c86988b09.jpg)
 Accurate forecasting of oil demand is crucial for optimizing production and ensuring a consistent supply chain. This project leverages historical data and predictive modeling to:
 
 -   Provide reliable forecasts of future oil demand, helping businesses plan production and procurement strategies.
@@ -22,8 +21,7 @@ Accurate forecasting of oil demand is crucial for optimizing production and ensu
 -   Support decision-making processes by providing visualizations and interactive dashboards that highlight key insights.
 
 ## Project Structure
-![enter image description here](https://i.pinimg.com/736x/23/ac/5e/23ac5e0e3285e778dac24ef5581484e6.jpg)
-
+![enter image description here](https://i.pinimg.com/736x/44/da/14/44da1474bff6159da1fe39c7b4eba7ca.jpg)
 
 ### Step 1: Loading and Analyzing Historical Data
 ![enter image description here](https://i.pinimg.com/736x/f3/76/12/f37612d847e91be1a164ef14ad521566.jpg)
