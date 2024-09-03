@@ -14,6 +14,7 @@ This repository contains all the necessary components to forecast oil demand usi
 
 ## Business Use Case
 ![enter image description here](https://i.pinimg.com/736x/cd/5a/89/cd5a89e8864c616b6312a60c86988b09.jpg)
+
 Accurate forecasting of oil demand is crucial for optimizing production and ensuring a consistent supply chain. This project leverages historical data and predictive modeling to:
 
 -   Provide reliable forecasts of future oil demand, helping businesses plan production and procurement strategies.
